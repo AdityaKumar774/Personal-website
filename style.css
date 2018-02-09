@@ -2,7 +2,7 @@ html {
   height: 100%;
   background: radial-gradient(ellipse at bottom, #9370DB 0%, #8B008B 100%);
   overflow: hidden;
-		opacity: 0;
+	opacity: 0;
 }
 
 #stars {
@@ -110,7 +110,7 @@ i.fa-envelope:hover, i.fa-envelope:active, i.fa-envelope:focus{
 	border-bottom: 2px solid aliceblue;
 }
 
-.freelance{
+.freelance, .data{
 	color: aliceblue;
 	font-weight: 800;
 	padding-left: 25px;
