@@ -110,19 +110,19 @@ i.fa-envelope:hover, i.fa-envelope:active, i.fa-envelope:focus{
 	border-bottom: 2px solid aliceblue;
 }
 
-.freelance, .data{
+.freelance{
 	color: aliceblue;
 	font-weight: 800;
 	padding-left: 25px;
 }
 
 .footer{
-	padding-top: 25px;
+	padding-top: 6px;
 	text-align: center;
 	color: aliceblue;
 }
 
-@media only screen and (max-width:400px){
+@media only screen and (max-width:360px){
 	.footer{
 		padding-top: 5px;
 	}
